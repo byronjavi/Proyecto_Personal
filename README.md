@@ -4,7 +4,7 @@ Esta aplicación consiste en el famoso juego de la vibora, lo he realizado en C#
 Los nodos al igual que la comida se representan en forma de nodos
 El usuario tiene la posibilidad de elegir si desea continuar con un nuevo juego despes de perder.
 
-El ejecutable tambien lo puedes encontrar en la siguiente ruta: Vivora\Vivora\bin\Debug\vibira.exe
+El ejecutable tambien lo puedes encontrar en la siguiente ruta: Vivora\Vivora\bin\Debug\vibora.exe
 
 
 ## Licencia
