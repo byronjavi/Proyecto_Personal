@@ -1,0 +1,9 @@
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\bin\Debug\Vivora.exe.config
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\obj\Debug\Vivora.csprojResolveAssemblyReference.cache
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\obj\Debug\Vivora.csproj.GenerateResource.Cache
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\bin\Debug\Vivora.exe
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\bin\Debug\Vivora.pdb
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\obj\Debug\Vivora.exe
+c:\users\byron\documents\visual studio 2013\Projects\Vivora\Vivora\obj\Debug\Vivora.pdb
+C:\Users\Byron\Documents\Visual Studio 2013\Projects\Vivora\Vivora\obj\Debug\Vibora.Form1.resources
+C:\Users\Byron\Documents\Visual Studio 2013\Projects\Vivora\Vivora\obj\Debug\Vibora.Properties.Resources.resources
