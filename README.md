@@ -27,7 +27,7 @@ Clonamos el proyecto
 
 ## 📲 Descargar archivo 
 
-Puedes descargar el archivo APK desde el siguiente enlace:  
+Puedes descargar el archivo EXE desde el siguiente enlace:  
 [Vibora.exe](https://drive.google.com/file/d/1xMPqe5V5xydrqMaoWTAJGrHJ1Zc-p7v7/view?usp=sharing)
 ```
 
