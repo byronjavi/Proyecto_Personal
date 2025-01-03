@@ -1,4 +1,4 @@
-# Proyecto Persona
+# Proyecto Personal
 
 Esta aplicación consiste en el famoso juego de la vibora, lo he realizado en C#
 Los nodos al igual que la comida se representan en forma de nodos
